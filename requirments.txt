@@ -1,0 +1,11 @@
+# PyTorch – kullanılan sürümü projenizin uyumuna göre belirleyin.
+torch==2.2.2
+
+# Hugging Face Transformers – model yükleme, tokenization ve eğitim işlemleri için.
+transformers==4.46.3
+
+# Hugging Face Datasets – veri kümesi yükleme, işleme ve tokenization için.
+datasets==3.1.0
+
+# (Opsiyonel) Accelerate – eğitim hızlandırma ve dağıtık eğitim destekleri için.
+accelerate==1.0.1
