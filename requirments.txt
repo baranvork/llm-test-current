@@ -9,3 +9,5 @@ datasets==3.1.0
 
 # (Opsiyonel) Accelerate – eğitim hızlandırma ve dağıtık eğitim destekleri için.
 accelerate==1.0.1
+
+google-cloud-storage==1.42.0
